@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="README.md"><img src="langs/langENGFull.png" alt="English"></a>
-  <a href="README.es.md"><img src="langs/langESPFull.png" alt="Spanish"></a>
-  <a href="README.ru.md"><img src="langs/langRUFull.png" alt="Russian"></a>
+  <a href="README.md"><img src="langs/langENGFull.png" alt="English" width="160"></a>
+  <a href="README.es.md"><img src="langs/langESPFull.png" alt="Spanish" width="160"></a>
+  <a href="README.ru.md"><img src="langs/langRUFull.png" alt="Russian" width="160"></a>
 </p>
 
 <p align="center">
