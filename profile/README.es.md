@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <img src="slides/coverEN.png" width="100%">
+</p>
+<p align="center">
   <img src="slides/esp/img1ESP.png" width="100%">
 </p>
 
